@@ -1,4 +1,5 @@
-[![Build Status](https://travis-ci.com/calekochenour/earth-engine-environment.svg?branch=main)](https://travis-ci.com/calekochenour/earth-engine-environment)
+[![Travis CI Build Status](https://travis-ci.com/calekochenour/earth-engine-environment.svg?branch=main)](https://travis-ci.com/calekochenour/earth-engine-environment)
+[![AppVeyor Build Status][https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true](https://ci.appveyor.com/project/calekochenour/earth-engine-environment)
 
 # Earth Engine Conda Environment
 

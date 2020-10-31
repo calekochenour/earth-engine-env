@@ -5,7 +5,7 @@ matrix:
 
 environment:
   matrix:
-    - PYTHON: "C:\\myminiconda3"
+    - PYTHON: "C:\\miniconda3"
 
 init:
   - "ECHO %PYTHON%"
