@@ -1,0 +1,21 @@
+name: earth-engine-python
+
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  # Main Python
+  - python=3.8
+
+  # Earth Engine
+  - earthengine-api
+  - geemap
+
+  # Jupyter environment
+  - jupyterlab
+  - notebook
+  - jupyter_contrib_nbextensions
+  - nbclean
+  - autopep8
+  - nb_black
