@@ -4,7 +4,7 @@ This repository contains a Conda environment to work with the Google Earth Engin
 
 ## Prerequisites
 
-To run the code in the `01-code-scripts` folder locally or online with Binder or Google Colab, you will need:
+To run the code in the `01-code-scripts/` folder locally or online with Binder or Google Colab, you will need:
 
  * [Google Earth Engine](https://earthengine.google.com/) account
 
@@ -24,7 +24,7 @@ Click the icon below to launch the project with Google Colab:
 
 [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/calekochenour/earth-engine-environment/blob/master/01-code-scripts)
 
-## 3. Local Setup Instructions
+## Local Setup Instructions
 
 Local instructions expect the user has cloned or forked the GitHub repository.
 
