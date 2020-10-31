@@ -31,9 +31,7 @@ Click the icon below to launch the project with Google Colab:
 
 ## Local Setup Instructions
 
-Local instructions expect the user has cloned or forked the GitHub repository.
-
-In a terminal, navigate to the folder containing the local repository.
+Local instructions expect the user has cloned or forked the GitHub repository. In a terminal, navigate to the folder containing the local repository.
 
 ### Create and Activate Conda Environment
 
@@ -55,7 +53,7 @@ conda activate earth-engine-python
 
 ### `01-code-scripts/`
 
-Contains all Python and Jupyter Notebook files to use the Conda environment and the Earth Engine Python API Functionality.
+Contains all Python and Jupyter Notebook files to demonstrate  the functionality of the Conda environment and the Earth Engine Python API.
 
 ### `environment.yml`
 
