@@ -26,7 +26,7 @@ If running code locally, you will also need:
 
 Click the icon below to launch the project with Binder:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/calekochenour/gee-vegetation-change/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/calekochenour/earth-engine-environment/main)
 
 ## Google Colab Setup Instructions
 
