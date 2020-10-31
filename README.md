@@ -5,7 +5,7 @@
 
 # Earth Engine Conda Environment
 
-This repository contains a Conda environment to work with the Google Earth Engine Python API via Jupyter environments and Python scripts.
+This repository contains a Conda environment to use the Google Earth Engine Python API within Jupyter environments and Python scripts.
 
 ## Prerequisites
 
