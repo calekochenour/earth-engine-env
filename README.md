@@ -1,7 +1,7 @@
 [![Travis CI Build Status](https://travis-ci.com/calekochenour/earth-engine-environment.svg?branch=main)](https://travis-ci.com/calekochenour/earth-engine-environment)
 [![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true)](https://ci.appveyor.com/project/calekochenour/earth-engine-environment)
 [![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/calekochenour/earth-engine-environment/main)
-[![Launch Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/calekochenour/earth-engine-environment/blob/main/01-code-scripts/01-qualitative-change-detection)
+[![Launch Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/calekochenour/earth-engine-environment/blob/main/01-code-scripts/01-qualitative-change-detection.ipynb)
 
 # Earth Engine Conda Environment
 
@@ -21,13 +21,13 @@ If running code locally, you will also need:
 
 Click the icon below to launch the project with Binder:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/calekochenour/earth-engine-environment/main)
+[![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/calekochenour/earth-engine-environment/main)
 
 ## Google Colab Setup Instructions
 
 Click the icon below to launch the project with Google Colab:
 
-[![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/calekochenour/earth-engine-environment/blob/master/01-code-scripts)
+[![Launch Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/calekochenour/earth-engine-environment/blob/main/01-code-scripts/01-qualitative-change-detection.ipynb)
 
 ## Local Setup Instructions
 
