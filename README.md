@@ -48,7 +48,7 @@ conda activate earth-engine-python
 
 ## Contents
 
-### `01-code-scripts`
+### `01-code-scripts/`
 
 Contains all Python and Jupyter Notebook files to use the Conda environment and the Earth Engine Python API Functionality.
 
