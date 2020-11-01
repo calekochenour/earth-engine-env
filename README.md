@@ -2,6 +2,7 @@
 [![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true)](https://ci.appveyor.com/project/calekochenour/earth-engine-environment)
 [![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/calekochenour/earth-engine-environment/main)
 [![Launch Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/calekochenour/earth-engine-environment/blob/main/01-code-scripts/01-qualitative-change-detection.ipynb)
+[![BSD 3-Clause License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
 
 # Earth Engine Conda Environment
 
@@ -33,27 +34,25 @@ Click the icon below to launch the project with Google Colab:
 
 Local instructions expect the user has cloned or forked the GitHub repository. In a terminal, navigate to the folder containing the local repository.
 
-### Create and Activate Conda Environment
-
 From the terminal, you can create and activate the Conda environment.
 
 Create environment:
 
 ```bash
-conda env create -f environment.yml
+$ conda env create -f environment.yml
 ```
 
 Activate environment:
 
 ```bash
-conda activate earth-engine-python
+# conda activate earth-engine-python
 ```
 
 ## Contents
 
 ### `01-code-scripts/`
 
-Contains all Python and Jupyter Notebook files to demonstrate  the functionality of the Conda environment and the Earth Engine Python API.
+Contains all Python and Jupyter Notebook files to demonstrate the functionality of the Conda environment and the Earth Engine Python API.
 
 ### `environment.yml`
 
