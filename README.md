@@ -45,7 +45,7 @@ $ conda env create -f environment.yml
 Activate environment:
 
 ```bash
-# conda activate earth-engine-python
+$ conda activate earth-engine-python
 ```
 
 ## Contents
