@@ -1,4 +1,4 @@
-[![Travis CI Build Status](https://travis-ci.com/calekochenour/earth-engine-environment.svg?branch=main)](https://travis-ci.com/calekochenour/earth-engine-env)
+[![Travis CI Build Status](https://travis-ci.com/calekochenour/earth-engine-env.svg?branch=main)](https://travis-ci.com/calekochenour/earth-engine-env)
 [![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true)](https://ci.appveyor.com/project/calekochenour/earth-engine-env)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4216770.svg)](https://doi.org/10.5281/zenodo.4216770)
 [![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/calekochenour/earth-engine-environment/main)
