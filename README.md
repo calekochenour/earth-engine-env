@@ -1,6 +1,5 @@
 [![Travis CI Build Status](https://travis-ci.com/calekochenour/earth-engine-env.svg?branch=main)](https://travis-ci.com/calekochenour/earth-engine-env)
 [![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true)](https://ci.appveyor.com/project/calekochenour/earth-engine-env)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4216770.svg)](https://doi.org/10.5281/zenodo.4216770)
 [![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/calekochenour/earth-engine-environment/main)
 [![Launch Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/calekochenour/earth-engine-environment/blob/main/01-code-scripts/01-qualitative-change-detection.ipynb)
 [![BSD 3-Clause License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
