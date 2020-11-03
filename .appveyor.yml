@@ -30,7 +30,7 @@ install:
   - conda config --set safety_checks disabled
   - conda config --set channel_priority strict
   - conda env create --file environment.yml
-  - activate earth-engine-python
+  - activate earth-engine
   - conda list
   - conda info --all
 

@@ -13,7 +13,7 @@ install:
 script:
   - source $HOME/miniconda/bin/activate
   - export PATH="$HOME/miniconda/bin:$PATH"
-  - conda activate earth-engine-python
+  - conda activate earth-engine
   - python -c "import ee"
   - python -c "import geemap"
   - conda list
