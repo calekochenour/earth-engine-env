@@ -1,6 +1,7 @@
 [![Travis CI Build Status](https://travis-ci.com/calekochenour/earth-engine-environment.svg?branch=main)](https://travis-ci.com/calekochenour/earth-engine-environment)
 [![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true)](https://ci.appveyor.com/project/calekochenour/earth-engine-environment)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4175827.svg)](https://doi.org/10.5281/zenodo.4175827)
+
+
 [![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/calekochenour/earth-engine-environment/main)
 [![Launch Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/calekochenour/earth-engine-environment/blob/main/01-code-scripts/01-qualitative-change-detection.ipynb)
 [![BSD 3-Clause License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
@@ -57,4 +58,4 @@ Contains all Python and Jupyter Notebook files to demonstrate the functionality 
 
 ### `environment.yml`
 
-Contains all information to create the Conda environment required to run the Python and Jupyter Notebook files in the `01-code-scripts/` folder.  
+Contains information to create the Conda environment required to run the Python and Jupyter Notebook files in the `01-code-scripts/` folder.  

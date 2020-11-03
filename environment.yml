@@ -1,4 +1,4 @@
-name: earth-engine-python
+name: earth-engine
 
 channels:
   - conda-forge
